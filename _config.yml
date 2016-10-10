@@ -1,10 +1,10 @@
 # Site settings
 title: Greg Bernady
-email: greg@gregbernady.com
-description: > # this means to ignore newlines until "baseurl:"
+email: greg@gbernady.com
+description: >
   Hello. I'm Greg. I like creating things, though most of it is purely virtual.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gbernady.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://gbernady.com"
 twitter_username: gbernady
 github_username:  gbernady
 repository: gbernady/gbernady.github.io
