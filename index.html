@@ -10,7 +10,11 @@
 </head>
 <body>
   <main>
-    <div id="photo"></div>
+    <picture>
+      <source srcset="assets/photo-1x.webp 1x, assets/photo-2x.webp 2x" type="image/webp">
+      <source srcset="assets/photo-1x.jpg 1x, assets/photo-2x.jpg 2x" type="image/jpeg">
+      <img id="photo" src="assets/photo-1x.jpg">
+    </picture>
     <h1>Grzegorz Bernady</h1>
     <p>Maker. Breaker. Cloud enthusiast. Apple fan. Opinionated. Honest. Passionate.</p>
     <p class="links">
