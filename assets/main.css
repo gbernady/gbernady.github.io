@@ -1,5 +1,4 @@
 body {
-    /*background-color: #eee;*/
     color: #444;
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-size: 18px;
@@ -29,7 +28,7 @@ footer {
 }
 
 #photo {
-    background: url("../img/photo.jpg") no-repeat;
+    background: url("photo.jpg") no-repeat;
     background-size: 120px 120px;
     border-radius: 50%;
     height: 120px;
